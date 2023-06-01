@@ -4,11 +4,8 @@
 ##### For mastodon instance use /inbox and for Pleroma instance use /actor - see below example.
 #
 #
----
-
 		Mastodon  | https://relay.wansaw.com/inbox |
 		Pleroma | https://relay.wansaw.com/inbox
----
 ## Relay Softwares
 
 | Software | Url  of repo   |

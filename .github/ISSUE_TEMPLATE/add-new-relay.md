@@ -1,17 +1,17 @@
 ---
 name: Add new relay
 about: Add your relay name here.
-title: NEW RELAY
+title: Your Relay Name
 labels: ''
 assignees: ''
 
 ---
 
-Your name 
-Relay Software Used
-Your instance if any
-Supported ActivityPub 
-Relay main URL
+Your name:
+Relay Software Used:
+Your instance if any:
+Supported ActivityPub :
+Relay main URL:
 Active instances on your relay.
-Server info ( CPU , LOCATION)
-Server Provider.
+Server info:
+Server Provider.:

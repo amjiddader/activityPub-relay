@@ -14,35 +14,41 @@
 | aoderelay |  https://git.asonix.dog/asonix/relay |
 | feditools-relay | https://git.ptzo.gdn/feditools/relay |
 | fediPub-relay  | https://github.com/amjiddader/fediPub-relay (Private) | 
-	
 
-## ✅ Active working relays
+## ✅  BEST RELAYS
+#### Powerful best and fast relay 
 ```
-https://mastodon-relay.moew.science/inbox
-https://relay.beckmeyer.us/inbox
+Sponcer  : https://relay.wansaw.com
+Mastodon : https://relay.wansaw.com/inbox
+Pleroma  : https://relay.wansaw.com/actor
+```
+
+
+## ✅ Active working relays 
+```
 https://relay.fedi.agency/inbox
 https://relay.fedinet.social/inbox
-https://relay.flm9.me/inbox
 https://relay.froth.zone/inbox
-https://relay.gruenehoelle.nl/inbox
-https://relay.homunyan.com/inbox
-https://relay.intahnet.co.uk/inbox
 https://relay.libranet.de/inbox
-https://relay.masto.la/inbox
 https://relay.minecloud.ro/inbox
-https://relay.mistli.net/inbox
-https://relay.pissdichal.de/inbox
-https://relay.toot.yukimochi.jp/inbox
-https://relay.uggs.io/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
-https://relay.dog/inbox
 https://relay.darmstadt.social/inbox
-https://relay.douzepoints.social/inbox
+
 ```
+## Active Relay for Pleroma Only (/actor mode)
+```
+https://mastodon-relay.moew.science/actor
+https://relay.gruenehoelle.nl/actor
+https://relay.homunyan.com/actor
+https://relay.pissdichal.de/actor
+https://relay.toot.yukimochi.jp/actor
+https://relay.douzepoints.social/actor
 
 
-## ✅🚫 relays that are restricted with allowlists
+``
+
+## ✅🚫restricted relays - not verified 
 ```
 https://relay.foxyhole.io/inbox | Only Italian and Inglese languages / non-profit / for info contact @redhunt07@www.foxyhole.io prior to joining.
 https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.

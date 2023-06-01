@@ -46,7 +46,7 @@ https://relay.toot.yukimochi.jp/actor
 https://relay.douzepoints.social/actor
 
 
-``
+```
 
 ## ✅🚫restricted relays - not verified 
 ```

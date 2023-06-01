@@ -6,18 +6,43 @@
 #
 ---
 
-| Fediverse | url  |
-| ------ | ------ |
-| Mastodon  | https://relay.wansaw.com/inbox |
-| Pleroma | https://relay.wansaw.com/inbox |
+		Mastodon  | https://relay.wansaw.com/inbox |
+		Pleroma | https://relay.wansaw.com/inbox
 ---
 ## Relay Softwares
-	activityrelay  https://git.pleroma.social/pleroma/relay
-	aoderelay https://git.asonix.dog/asonix/relay
-	feditools-relay https://git.ptzo.gdn/feditools/relay
-	fediPub-relay https://github.com/amjiddader/fediPub-relay (Private)
 
-## ✅ active working relays
+| Software | Url  of repo   |
+| ------ | ------ |
+| activityrelay  | https://git.pleroma.social/pleroma/relay  |
+| aoderelay |  https://git.asonix.dog/asonix/relay |
+| feditools-relay | https://git.ptzo.gdn/feditools/relay |
+| fediPub-relay  | https://github.com/amjiddader/fediPub-relay (Private) | 
+	
+
+## ✅ Active working relays
+```
+https://mastodon-relay.moew.science/inbox
+https://relay.beckmeyer.us/inbox
+https://relay.fedi.agency/inbox
+https://relay.fedinet.social/inbox
+https://relay.flm9.me/inbox
+https://relay.froth.zone/inbox
+https://relay.gruenehoelle.nl/inbox
+https://relay.homunyan.com/inbox
+https://relay.intahnet.co.uk/inbox
+https://relay.libranet.de/inbox
+https://relay.masto.la/inbox
+https://relay.minecloud.ro/inbox
+https://relay.mistli.net/inbox
+https://relay.pissdichal.de/inbox
+https://relay.toot.yukimochi.jp/inbox
+https://relay.uggs.io/inbox
+https://relay.wagnersnetz.de/inbox
+https://relay.wig.gl/inbox
+https://relay.dog/inbox
+https://relay.darmstadt.social/inbox
+https://relay.douzepoints.social/inbox
+```
 
 
 ## ✅🚫 relays that are restricted with allowlists

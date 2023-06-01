@@ -3,7 +3,7 @@
 ##### If you are admin of Mastodon or Pleroma Instance you can add below relays to your instance.
 ##### For mastodon instance use /inbox and for Pleroma instance use /actor - see below example.
 	Mastodon	| https://relay.wansaw.com/inbox 
-	Pleroma		| https://relay.wansaw.com/inbox
+	Pleroma		| https://relay.wansaw.com/actor
 	
 ## Relay Softwares
 

@@ -18,9 +18,7 @@
 ## ✅  BEST RELAYS
 #### Powerful best and fast relay 
 ```
-Sponcer  : https://relay.wansaw.com
-Mastodon : https://relay.wansaw.com/inbox
-Pleroma  : https://relay.wansaw.com/actor
+If you run stable and good relay server - Let me know i will add here...
 ```
 
 

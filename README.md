@@ -2,8 +2,8 @@
 #### _To add new or report non-working create new issue_
 ##### If you are admin of Mastodon or Pleroma Instance you can add below relays to your instance.
 ##### For mastodon instance use /inbox and for Pleroma instance use /actor - see below example.
-	Mastodon	| https://relay.example.com/inbox 
-	Pleroma		| https://relay.example.com/actor
+	Mastodon	| https://relay.wansaw.com/inbox 
+	Pleroma		| https://relay.wansaw.com/actor
 	
 ## Relay Softwares
 
@@ -24,6 +24,7 @@ If you run stable and good relay server - Let me know i will add here...
 
 ## ✅ Active working relays 
 ```
+✨ https://relay.wansaw.com/inbox 
 https://relay.fedi.agency/inbox
 https://relay.fedinet.social/inbox
 https://relay.froth.zone/inbox
@@ -36,6 +37,7 @@ https://relay.darmstadt.social/inbox
 ```
 ## Active Relay for Pleroma Only (/actor mode)
 ```
+✨ https://relay.wansaw.com/actor 
 https://mastodon-relay.moew.science/actor
 https://relay.gruenehoelle.nl/actor
 https://relay.homunyan.com/actor

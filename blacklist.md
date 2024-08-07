@@ -1,0 +1,2 @@
+## Blacklisting on wansaw fediRelay
+

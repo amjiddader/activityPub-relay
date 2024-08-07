@@ -24,10 +24,9 @@ If you run stable and good relay server - Let me know i will add here...
 
 ## ✅ Active working relays 
 ```
-✨ https://relay.wansaw.com/inbox 
+https://relay.wansaw.com/inbox 
 https://relay.fedinet.social/inbox
 https://relay.froth.zone/inbox
-https://relay.libranet.de/inbox
 https://relay.minecloud.ro/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
@@ -36,7 +35,7 @@ https://relay.darmstadt.social/inbox
 ```
 ## Active Relay for Pleroma Only (/actor mode)
 ```
-✨ https://relay.wansaw.com/actor 
+https://relay.wansaw.com/actor 
 https://mastodon-relay.moew.science/actor
 https://relay.pissdichal.de/actor
 https://relay.toot.yukimochi.jp/actor

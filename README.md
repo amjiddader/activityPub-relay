@@ -31,6 +31,8 @@ https://relay.minecloud.ro/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
 https://relay.darmstadt.social/inbox
+https://relay.publicsquare.global/inbox (or https://relay.publicsquare.global/actor for Pleroma)
+
 
 ```
 ## Active Relay for Pleroma Only (/actor mode)

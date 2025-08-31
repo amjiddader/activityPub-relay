@@ -14,6 +14,7 @@
 | aoderelay |  https://git.asonix.dog/asonix/relay |
 | feditools-relay | https://git.ptzo.gdn/feditools/relay |
 | fediPub-relay  | https://github.com/amjiddader/fediPub-relay (Private) | 
+| BuzzRelay | https://github.com/astro/buzzrelay
 
 ## ✅  BEST RELAYS
 #### Powerful best and fast relay 

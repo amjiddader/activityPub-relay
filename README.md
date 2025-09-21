@@ -33,6 +33,7 @@ https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
 https://relay.darmstadt.social/inbox
 https://relay.publicsquare.global/inbox 
+https://relay-us-east.circlewithadot.net/inbox
 ```
 ## Active Relay for Pleroma Only (/actor mode)
 ```
@@ -41,6 +42,7 @@ https://mastodon-relay.moew.science/actor
 https://relay.pissdichal.de/actor
 https://relay.toot.yukimochi.jp/actor
 https://relay.publicsquare.global/actor
+https://relay-us-east.circlewithadot.net/actor
 ```
 
 ## ✅🚫restricted relays - not verified 

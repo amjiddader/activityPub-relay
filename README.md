@@ -25,19 +25,19 @@ If you run stable and good relay server - Let me know i will add here...
 
 ## ✅ Active working relays 
 ```
-https://relay.wansaw.com/inbox 
+https://relay.wansaw.com/inbox
+https://relay-us-east.circlewithadot.net/inbox
 https://relay.fedinet.social/inbox
 https://relay.froth.zone/inbox
 https://relay.minecloud.ro/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
 https://relay.darmstadt.social/inbox
-https://relay.publicsquare.global/inbox 
-https://relay-us-east.circlewithadot.net/inbox
 ```
 ## Active Relay for Pleroma Only (/actor mode)
 ```
-https://relay.wansaw.com/actor 
+https://relay.wansaw.com/actor
+https://relay-us-east.circlewithadot.net/actor
 https://mastodon-relay.moew.science/actor
 https://relay.pissdichal.de/actor
 https://relay.toot.yukimochi.jp/actor
@@ -47,10 +47,7 @@ https://relay-us-east.circlewithadot.net/actor
 
 ## ✅🚫restricted relays - not verified 
 ```
-https://de.relay.pfalz.social/inbox | Only for primarily German-language instances. Contact @maschinenraum@pfalz.social prior to joining.
-https://en.relay.friendi.ca/inbox | This relay is currently full, new joins are not accepted.
-https://open.relay.pfalz.social/inbox | This relay is currently full, new joins are not accepted.
-https://relay.asonix.dog/inbox
+Not maintaining anymore because massive scammers listed relays.
 ```
 
 

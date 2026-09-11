@@ -13,7 +13,7 @@
 | activityrelay  | https://git.pleroma.social/pleroma/relay  |
 | aoderelay |  https://git.asonix.dog/asonix/relay |
 | feditools-relay | https://git.ptzo.gdn/feditools/relay |
-| fediPub-relay  | https://github.com/amjiddader/fediPub-relay (Private) | 
+| fediPub-relay  | https://github.com/amjiddader/fedipub (Private) | 
 | BuzzRelay | https://github.com/astro/buzzrelay
 
 ## ✅  BEST RELAYS
@@ -27,7 +27,6 @@ If you run stable and good relay server - Let me know i will add here...
 ```
 https://relay.wansaw.com/inbox
 https://relay-us-east.circlewithadot.net/inbox
-https://relay.fedinet.social/inbox
 https://relay.froth.zone/inbox
 https://relay.minecloud.ro/inbox
 https://relay.wagnersnetz.de/inbox

@@ -31,7 +31,7 @@ If you run stable and good relay server - Let me know i will add here...
 
 ## ✅ Active working relays 
 ```
-*https://relay.wansaw.com/inbox*
+https://relay.wansaw.com/inbox
 https://relay-us-east.circlewithadot.net/inbox
 https://relay.froth.zone/inbox
 https://relay.minecloud.ro/inbox

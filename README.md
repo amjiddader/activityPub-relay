@@ -31,6 +31,7 @@ https://relay.froth.zone/inbox
 https://relay.minecloud.ro/inbox
 https://relay.wagnersnetz.de/inbox
 https://relay.wig.gl/inbox
+https://relay.trvzhk.cc/inbox
 https://relay.darmstadt.social/inbox
 https://relay.uggs.io/inbox
 ```
@@ -41,8 +42,9 @@ https://relay-us-east.circlewithadot.net/actor
 https://mastodon-relay.moew.science/actor
 https://relay.toot.yukimochi.jp/actor
 https://relay.publicsquare.global/actor
-https://relay.uggs.io/actor
+https://relay.trvzhk.cc/actor
 https://relay-us-east.circlewithadot.net/actor
+https://relay.uggs.io/actor
 ```
 
 ## ✅🚫restricted relays - not verified 
@@ -51,4 +53,4 @@ Not maintaining anymore because massive scammers listed relays.
 ```
 
 
-[![Stargazers over time](https://starchart.cc/amjiddader/activityPub-relay.svg)](https://starchart.cc/amjiddader/activityPub-relay)
+[![Star History Chart](https://api.star-history.com/chart?repos=amjiddader/activitypub-relay&type=date&legend=top-left)](https://www.star-history.com/?repos=amjiddader%2Factivitypub-relay&type=date&legend=top-left)

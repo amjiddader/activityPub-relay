@@ -40,7 +40,6 @@ https://relay.uggs.io/inbox
 https://relay.wansaw.com/actor
 https://relay-us-east.circlewithadot.net/actor
 https://mastodon-relay.moew.science/actor
-https://relay.pissdichal.de/actor
 https://relay.toot.yukimochi.jp/actor
 https://relay.publicsquare.global/actor
 https://relay.uggs.io/actor

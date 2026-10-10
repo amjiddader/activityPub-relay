@@ -20,7 +20,8 @@ https://relay.wansaw.com/actor
 | aoderelay |  https://git.asonix.dog/asonix/relay |
 | feditools-relay | https://git.ptzo.gdn/feditools/relay |
 | fediPub-relay  | https://github.com/amjiddader/fedipub (Private) | 
-| BuzzRelay | https://github.com/astro/buzzrelay
+| BuzzRelay | https://github.com/astro/buzzrelay |
+| cf-activity-relay | https://github.com/manalejandro/cf-activity-relay |
 
 ## ✅  BEST RELAYS
 #### Powerful best and fast relay 
@@ -40,6 +41,8 @@ https://relay.wig.gl/inbox
 https://relay.trvzhk.cc/inbox
 https://relay.darmstadt.social/inbox
 https://relay.uggs.io/inbox
+https://relay.manalejandro.com/inbox
+https://relayap.com/inbox
 ```
 ## Active Relay for Pleroma Only (/actor mode)
 ```
@@ -51,6 +54,8 @@ https://relay.publicsquare.global/actor
 https://relay.trvzhk.cc/actor
 https://relay-us-east.circlewithadot.net/actor
 https://relay.uggs.io/actor
+https://relay.manalejandro.com/actor
+https://relayap.com/actor
 ```
 
 ## ✅🚫restricted relays - not verified 
